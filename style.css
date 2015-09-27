@@ -1,0 +1,531 @@
+/*helper classes*/
+
+.ml10 {margin-left: 10px;}
+.ml15 {margin-left: 15px;}
+.l40 {margin-left: 40px;}
+
+
+
+
+
+.header	{background-image: url("images/leif-action.jpg");
+		background-repeat:no-repeat;
+		padding-bottom:44px;
+		background-size:110%;
+		background-position: 0% 50%;}
+
+.header h1, h3, .btn-primary {margin-left:10px;}
+
+.btn-primary {font-family: 'Exo', sans-serif;
+			border-radius: 0px;
+			font-size:15px;
+			font-weight: 600;
+			padding: 5px 30px;
+			background-color: #fff;
+			color:#000;
+			border: 2px #b3c56e solid;}
+
+.btn-primary:hover {background-color: #fff;
+					border: 2px #000 solid;
+					color:#b3c56e;}
+
+ {background-color: #000;}							
+
+.top {font-family: 'Exo', sans-serif;
+		font-size: 37px;
+		color:#ffffff;
+		margin-top:60px;
+		font-weight: 600;
+		size:50%;}
+
+.top-subtitle {font-family: 'Exo', sans-serif;
+		font-size: 18px;
+		color:#b3c56e;
+		font-weight: 400;
+		font-style:italic;
+		margin-top:0px;}
+
+	
+.feature-articles {background-color:#b3c56e; }
+
+.features {background-color:#b3c56e;
+			font-family: 'Exo', sans-serif;
+			letter-spacing:20px;
+			color:#fff;
+			text-align: center;
+			padding-top:30px;
+			padding-bottom: 30px;
+			margin-top:20px;
+			}
+
+.features img {width: 65%;
+				height:65%;}
+
+.feature-words h2 {background-color:#b3c56e;
+					font-family: 'Exo', sans-serif;
+					color:#fff;
+					font-weight: 200;
+					text-align: center;
+					letter-spacing: 18px;
+					padding: 20px 0px;}					
+
+.cnbc img {width: 35%;
+			height:30%;
+			margin-top:-60px;}
+
+.boom img {margin-left:8px;
+			margin-top: -15px;}
+
+.tested img {margin-top:-5px;
+			margin-bottom:20px;}
+
+.engadget img {margin-top:-20px;
+				margin-left:15px; }
+
+.gizmag img {margin-top: 35px;
+				width:60%;}
+
+.snowboardfade {background-image:url("images/leif-action.gif");
+				height:230px;
+				background-size: 100%;
+				background-repeat: no-repeat;}
+
+.snowboardfade h4 {color: #fff;
+					font-family: 'Exo', sans-serif;
+					font-weight: 400;
+					font-size: 22px;
+					width:242px;
+					padding-left:10px;
+					margin-top: 25px;
+					background-color: #000;
+					background: rgb(54, 25, 25); 
+					background: rgba(54, 25, 25, .3);}
+
+
+.icon	{background-color:#373737;
+		text-align: center;
+		font-family: 'Exo', sans-serif;
+		font-weight: 500;
+		color:#fff;}
+
+.icon h3 {font-size: 60px;
+			margin-bottom:45px;}
+
+.icon p {font-family: 'Exo', sans-serif;
+			font-size: 20px;
+			color:#fff;
+			font-weight: 400;
+			margin-bottom:90px;}			
+
+.plug {margin-top:60px;}
+
+.icon img {width: 20%;
+			height: 20%;
+			margin-bottom:45px;}
+
+.batteries img {margin-left:20px;}
+
+.bottom {background-color: #fbfbfb;}
+
+.bottom h1 {font-family: 'Exo', sans-serif;
+			font-size: 50px;
+			text-align: center;
+			color:#b3c56e;
+			margin-top:100px;
+			margin-bottom:100px;}
+
+.bottom .btn-primary {margin-left:140px;}
+
+.bottom img {height: 95%;
+			width: 95%;
+			margin-left: 10px;
+			margin-bottom: 60px;}
+
+hr {color:#b3c56e;
+	border: 2px #b3c56e solid;}
+
+.leif-logo img {width: 60%;
+				height: 60%;
+				margin-left: 70px;}
+
+.social img {width: 15%;
+		height: 15%;
+		margin-left:50px;}
+
+.footer p {font-family: 'Exo', sans-serif;
+			color:#a8a8a8;
+			font-size:19px;
+			text-align: center;}		
+
+																																							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Custom, iPhone Retina */ 
+	@media only screen and (min-width : 320px) {
+
+	}
+
+
+
+/* Extra Small Devices, Phones */ 
+	@media only screen and (min-width : 480px) {
+
+.header	{background-image: url("images/leif-action.jpg");
+		background-repeat:no-repeat;
+		padding-bottom:44px;
+		background-size:110%;
+		background-position: 0% 50%;
+		margin-left:10px;}
+
+.header h1, h3, .btn-primary {margin-left:10px;}
+
+.btn-primary {font-family: 'Exo', sans-serif;
+			border-radius: 0px;
+			font-size:15px;
+			font-weight: 600;
+			padding: 5px 30px;
+			background-color: #fff;
+			color:#000;
+			border: 2px #b3c56e solid;}
+
+.btn-primary:hover {background-color: #fff;
+					border: 2px #000 solid;
+					color:#b3c56e;}
+
+.btn-primary:active {background-color: #000;}							
+
+.top {font-family: 'Exo', sans-serif;
+		font-size: 50px;
+		color:#fff;
+		margin-top:60px;
+		font-weight: 600;
+		size:50%;}
+
+.top-subtitle {font-family: 'Exo', sans-serif;
+		font-size: 22px;
+		color:#b3c56e;
+		font-weight: 400;
+		font-style:italic;
+		margin-top:0px;}
+
+	
+
+
+.features {background-color:#b3c56e;
+			font-family: 'Exo', sans-serif;
+			letter-spacing:20px;
+			color:#fff;
+			text-align: center;
+			padding-top:20px;}
+
+.features img {width: 50%;
+				height:50%px;
+				margin-bottom:4px;}
+
+.features h2 {padding-bottom: 30px;
+				font-weight: 200;}
+
+.feature-words h2 {background-color:#b3c56e;
+					font-family: 'Exo', sans-serif;
+					color:#fff;
+					font-weight: 200;
+					text-align: center;
+					letter-spacing: 21px;
+					padding: 20px 0px;
+					font-size: 50px;}
+
+.col-xs-1 {background-color: red;
+			height: 50px;}														
+
+.cnbc img {width: 30%;
+			height:20%;
+			margin-top:-68px;}
+
+.boom img {margin-top:px;
+			width: 60%;}
+
+.tested img {margin-top:-5px;
+			margin-bottom:20px;}
+
+.engadget img {margin-top:-20px;}
+
+.gizmag img {margin-top: 45px;
+				width:50%;}
+
+.snowboardfade {background-image:url("images/leif-action3.gif");
+				height:270px;
+				background-size: 100%;
+				background-repeat: no-repeat;}
+
+.snowboardfade h4 {color: #fff;
+					font-family: 'Exo', sans-serif;
+					font-weight: 400;
+					font-size: 22px;
+					width:242px;
+					padding-left:10px;
+					margin-top: 25px;
+					background-color: #000;
+					background: rgb(54, 25, 25); 
+					background: rgba(54, 25, 25, .3);}
+
+
+.icon	{background-color:#373737;
+		text-align: center;
+		font-family: 'Exo', sans-serif;
+		font-weight: 500;
+		color:#fff;}
+
+.icon h3 {font-size: 60px;
+			margin-bottom:45px;}
+
+.icon p {font-family: 'Exo', sans-serif;
+			font-size: 30px;
+			color:#fff;
+			font-weight: 400;
+			margin-bottom:90px;}			
+
+.plug {margin-top:60px;}
+
+.icon img {width: 20%;
+			height: 20%;
+			margin-bottom:45px;}
+
+.batteries img {margin-left:20px;}
+
+.bottom {background-color: #fbfbfb;}
+
+.bottom h1 {font-family: 'Exo', sans-serif;
+			font-size: 50px;
+			text-align: center;
+			color:#b3c56e;
+			margin-top:100px;
+			margin-bottom:100px;}
+
+.bottom .btn-primary {margin-left:140px;}
+
+.bottom img {height: 95%;
+			width: 95%;
+			margin-left: 10px;
+			margin-bottom: 60px;}
+
+hr {color:#b3c56e;
+	border: 2px #b3c56e solid;}
+
+.leif-logo img {width: 60%;
+				height: 60%;
+				margin-left: 70px;}
+
+.social img {width: 15%;
+		height: 15%;
+		margin-left:50px;}
+
+.footer p {font-family: 'Exo', sans-serif;
+			color:#a8a8a8;
+			font-size:19px;
+			text-align: center;}
+
+	}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* Extra Breakpoint #1 for GIF so it responds nicely */
+	@media only screen and (min-width : 520px) {
+
+.snowboardfade {background-image:url("images/leif-action3.gif");
+				height:290px;
+				background-size: 100%;
+				background-repeat: no-repeat;}
+
+.snowboardfade h4 {color: #fff;
+					font-family: 'Exo', sans-serif;
+					font-weight: 400;
+					font-size: 24px;
+					width:264px;
+					padding-left:10px;
+					margin-top: 25px;
+					background-color: #000;
+					background: rgb(54, 25, 25); 
+					background: rgba(54, 25, 25, .3);}
+
+.header	{background-image: url("images/leif-action.jpg");
+		background-repeat:no-repeat;
+		padding-bottom:44px;
+		background-size:110%;
+		background-position: 5% 85%;
+		margin-left:10px;
+	
+	}
+											
+
+	}
+
+
+	/* Extra Breakpoint #2for GIF so it responds nicely */
+	@media only screen and (min-width : 600px) {
+
+.snowboardfade {background-image:url("images/leif-action3.gif");
+				height:340px;
+				background-size: 100%;
+				background-repeat: no-repeat;}
+
+.snowboardfade h4 {color: #fff;
+					font-family: 'Exo', sans-serif;
+					font-weight: 400;
+					font-size: 28px;
+					width:310px;
+					padding-left:10px;
+					margin-top: 25px;
+					background-color: #000;
+					background: rgb(54, 25, 25); 
+					background: rgba(54, 25, 25, .3);}					
+
+	}
+
+/* Extra Breakpoint #3 for GIF so it responds nicely */
+	@media only screen and (min-width : 680px) {
+
+.snowboardfade {background-image:url("images/leif-action3.gif");
+				height:380px;
+				background-size: 100%;
+				background-repeat: no-repeat;}
+
+.snowboardfade h4 {color: #fff;
+					font-family: 'Exo', sans-serif;
+					font-weight: 400;
+					font-size: 32px;
+					width:350px;
+					padding-left:10px;
+					margin-top: 25px;
+					background-color: #000;
+					background: rgb(54, 25, 25); 
+					background: rgba(54, 25, 25, .3);}				
+
+	}
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) {
+
+.icon	{background-color:#373737;
+		text-align: center;
+		font-family: 'Exo', sans-serif;
+		font-weight: 500;
+		color:#fff;
+		padding-top: 50px;
+		padding-bottom: 120px;}
+
+.icon h3 {font-size: 40px;
+			margin-bottom:45px;}
+
+.icon p {font-family: 'Exo', sans-serif;
+			font-size: 15px;
+			color:#fff;
+			font-weight: 400;
+			margin-bottom:90px;
+			width: 200px;
+			text-align: left;}
+
+.plug p, .speed p, .batteries p {margin:auto;}
+
+.speed h3 {margin-top:80px;}
+
+
+
+.batteries h3 {margin-top:75px;}
+
+
+
+.icon img {width: 30%;
+			height: 30%;
+			margin-bottom:45px;}
+
+.batteries img {width:22%;
+				height: 22%;}
+
+.plug img {width: 30%;
+			height: 30%;
+			margin-top: 12px;
+			margin-bottom:50px;}
+
+.speed img {width: 28%;
+			height: 28%;}													
+
+}
+
+	}
+
+	
+
+
+
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) {
+
+		.top {font-family: 'Exo', sans-serif;
+		font-size: 37px;
+		color:green;
+		margin-top:60px;
+		font-weight: 600;
+		size:50%;}
+
+	}
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (min-width : 1200px) {
+
+		.top {font-family: 'Exo', sans-serif;
+		font-size: 37px;
+		color:grey;
+		margin-top:60px;
+		font-weight: 600;
+		size:50%;}
+
+	}
